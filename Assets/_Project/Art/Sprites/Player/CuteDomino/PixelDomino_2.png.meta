@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 7121950947335b74bba6cae8f44c71f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5131549964289201836
+    second: PixelDomino_2_0
+  - first:
+      213: -3225127208982885664
+    second: PixelDomino_2_1
+  - first:
+      213: 5943880446894591721
+    second: PixelDomino_2_2
+  - first:
+      213: 5223062180844058041
+    second: PixelDomino_2_3
+  - first:
+      213: -5454510493029318703
+    second: PixelDomino_2_4
+  - first:
+      213: 7312580393002340994
+    second: PixelDomino_2_5
+  - first:
+      213: 799505490766016479
+    second: PixelDomino_2_6
+  - first:
+      213: -1360463901360426817
+    second: PixelDomino_2_7
+  - first:
+      213: 7393291361631784395
+    second: PixelDomino_2_8
+  - first:
+      213: 349867321896341123
+    second: PixelDomino_2_9
+  - first:
+      213: 8189475262706544099
+    second: PixelDomino_2_10
+  - first:
+      213: -4931300459792194933
+    second: PixelDomino_2_11
+  - first:
+      213: -5400808474791884339
+    second: PixelDomino_2_12
+  - first:
+      213: -35829497549123452
+    second: PixelDomino_2_13
+  - first:
+      213: -3982898905037664516
+    second: PixelDomino_2_14
+  - first:
+      213: -4978435092658833365
+    second: PixelDomino_2_15
+  - first:
+      213: 6124862265456609646
+    second: PixelDomino_2_16
+  - first:
+      213: 6301707911325226584
+    second: PixelDomino_2_17
+  - first:
+      213: 7279287154686698602
+    second: PixelDomino_2_18
+  - first:
+      213: 4447707545838410011
+    second: PixelDomino_2_19
+  - first:
+      213: 8014732275082400368
+    second: PixelDomino_2_20
+  - first:
+      213: -1575058668332579115
+    second: PixelDomino_2_21
+  - first:
+      213: -825485945885455733
+    second: PixelDomino_2_22
+  - first:
+      213: 2117952411562873703
+    second: PixelDomino_2_23
+  - first:
+      213: 8596092720088633583
+    second: PixelDomino_2_24
+  - first:
+      213: 3606518253295197162
+    second: PixelDomino_2_25
+  - first:
+      213: -1684040548079110445
+    second: PixelDomino_2_26
+  - first:
+      213: -3024789134856590598
+    second: PixelDomino_2_27
+  - first:
+      213: 6532555826910499956
+    second: PixelDomino_2_28
+  - first:
+      213: 880984531225284867
+    second: PixelDomino_2_29
+  - first:
+      213: -7884008877439729060
+    second: PixelDomino_2_30
+  - first:
+      213: -3594592906247882933
+    second: PixelDomino_2_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelDomino_2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 173
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca650a0218de63740800000000000000
+      internalID: 5131549964289201836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 173
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eac02114eb0e33d0800000000000000
+      internalID: -3225127208982885664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 173
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeca8046c7ec7250800000000000000
+      internalID: 5943880446894591721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 173
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5bcf8616b0c7840800000000000000
+      internalID: 5223062180844058041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 173
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfb8571b9fad44b0800000000000000
+      internalID: -5454510493029318703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 173
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282146caf118b7560800000000000000
+      internalID: 7312580393002340994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 173
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf2515020a681b00800000000000000
+      internalID: 799505490766016479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 173
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb07bad2a49ae1de0800000000000000
+      internalID: -1360463901360426817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdc603725f3a9660800000000000000
+      internalID: 7393291361631784395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 117
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e0620c97afad400800000000000000
+      internalID: 349867321896341123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 117
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ede87a9c5cd6a170800000000000000
+      internalID: 8189475262706544099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 117
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82ad55eb50809bb0800000000000000
+      internalID: -4931300459792194933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 117
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc94c109e497c05b0800000000000000
+      internalID: -5400808474791884339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 117
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4809a160345b08ff0800000000000000
+      internalID: -35829497549123452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 117
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe00f45c86e9b8c0800000000000000
+      internalID: -3982898905037664516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 117
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b283bbcf8ab09eab0800000000000000
+      internalID: -4978435092658833365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 61
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e694cbe87c1eff450800000000000000
+      internalID: 6124862265456609646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 61
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8561fcc15f9247750800000000000000
+      internalID: 6301707911325226584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_18
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 61
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a642a219919350560800000000000000
+      internalID: 7279287154686698602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 61
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19d58ea27e69bd30800000000000000
+      internalID: 4447707545838410011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 61
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07215225a8c0a3f60800000000000000
+      internalID: 8014732275082400368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 61
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d603a57c74442ae0800000000000000
+      internalID: -1575058668332579115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 61
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a8b64e7e84b84f0800000000000000
+      internalID: -825485945885455733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 61
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76313663f7a746d10800000000000000
+      internalID: 2117952411562873703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0543de8c47b4770800000000000000
+      internalID: 8596092720088633583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb5f934e3dec0230800000000000000
+      internalID: 3606518253295197162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_26
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6f3604b0611a8e0800000000000000
+      internalID: -1684040548079110445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa6960de4ac506d0800000000000000
+      internalID: -3024789134856590598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4749862e9ec48aa50800000000000000
+      internalID: 6532555826910499956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 5
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3011c4473c2e93c00800000000000000
+      internalID: 880984531225284867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 5
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52cd2e72bf569290800000000000000
+      internalID: -7884008877439729060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelDomino_2_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47b4f6fbc07d1ec0800000000000000
+      internalID: -3594592906247882933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelDomino_2_0: 5131549964289201836
+      PixelDomino_2_1: -3225127208982885664
+      PixelDomino_2_10: 8189475262706544099
+      PixelDomino_2_11: -4931300459792194933
+      PixelDomino_2_12: -5400808474791884339
+      PixelDomino_2_13: -35829497549123452
+      PixelDomino_2_14: -3982898905037664516
+      PixelDomino_2_15: -4978435092658833365
+      PixelDomino_2_16: 6124862265456609646
+      PixelDomino_2_17: 6301707911325226584
+      PixelDomino_2_18: 7279287154686698602
+      PixelDomino_2_19: 4447707545838410011
+      PixelDomino_2_2: 5943880446894591721
+      PixelDomino_2_20: 8014732275082400368
+      PixelDomino_2_21: -1575058668332579115
+      PixelDomino_2_22: -825485945885455733
+      PixelDomino_2_23: 2117952411562873703
+      PixelDomino_2_24: 8596092720088633583
+      PixelDomino_2_25: 3606518253295197162
+      PixelDomino_2_26: -1684040548079110445
+      PixelDomino_2_27: -3024789134856590598
+      PixelDomino_2_28: 6532555826910499956
+      PixelDomino_2_29: 880984531225284867
+      PixelDomino_2_3: 5223062180844058041
+      PixelDomino_2_30: -7884008877439729060
+      PixelDomino_2_31: -3594592906247882933
+      PixelDomino_2_4: -5454510493029318703
+      PixelDomino_2_5: 7312580393002340994
+      PixelDomino_2_6: 799505490766016479
+      PixelDomino_2_7: -1360463901360426817
+      PixelDomino_2_8: 7393291361631784395
+      PixelDomino_2_9: 349867321896341123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

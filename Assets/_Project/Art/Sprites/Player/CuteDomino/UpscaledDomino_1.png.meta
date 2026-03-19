@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: f142d8ba7b71d3948b432dda21ec7fb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8278628859699182268
+    second: UpscaledDomino_1_0
+  - first:
+      213: -864041232076370696
+    second: UpscaledDomino_1_1
+  - first:
+      213: -2736126227682695691
+    second: UpscaledDomino_1_2
+  - first:
+      213: 457588063327576055
+    second: UpscaledDomino_1_3
+  - first:
+      213: -1536248040658021561
+    second: UpscaledDomino_1_4
+  - first:
+      213: 3254812539563593039
+    second: UpscaledDomino_1_5
+  - first:
+      213: -6478840912422725805
+    second: UpscaledDomino_1_6
+  - first:
+      213: -1289321905839967644
+    second: UpscaledDomino_1_7
+  - first:
+      213: -3910782455113459354
+    second: UpscaledDomino_1_8
+  - first:
+      213: 7036754050444964087
+    second: UpscaledDomino_1_9
+  - first:
+      213: 6993178965375069971
+    second: UpscaledDomino_1_10
+  - first:
+      213: 4835868393620311708
+    second: UpscaledDomino_1_11
+  - first:
+      213: -2671096004577617871
+    second: UpscaledDomino_1_12
+  - first:
+      213: -4103303718150922999
+    second: UpscaledDomino_1_13
+  - first:
+      213: -8183953523925510190
+    second: UpscaledDomino_1_14
+  - first:
+      213: 4300603326424926423
+    second: UpscaledDomino_1_15
+  - first:
+      213: -5423824530664961580
+    second: UpscaledDomino_1_16
+  - first:
+      213: 2637319150645141336
+    second: UpscaledDomino_1_17
+  - first:
+      213: 5182358963330619345
+    second: UpscaledDomino_1_18
+  - first:
+      213: 582878924756131804
+    second: UpscaledDomino_1_19
+  - first:
+      213: -8558804686049041617
+    second: UpscaledDomino_1_20
+  - first:
+      213: -664245057052033317
+    second: UpscaledDomino_1_21
+  - first:
+      213: 8959210110312735033
+    second: UpscaledDomino_1_22
+  - first:
+      213: 1156356580011179538
+    second: UpscaledDomino_1_23
+  - first:
+      213: -2247680466895144515
+    second: UpscaledDomino_1_24
+  - first:
+      213: 7747791643948418892
+    second: UpscaledDomino_1_25
+  - first:
+      213: 1533700422373417661
+    second: UpscaledDomino_1_26
+  - first:
+      213: 9155794216047694613
+    second: UpscaledDomino_1_27
+  - first:
+      213: -5795447040048501178
+    second: UpscaledDomino_1_28
+  - first:
+      213: 3024602158024320017
+    second: UpscaledDomino_1_29
+  - first:
+      213: -8617848738141314361
+    second: UpscaledDomino_1_30
+  - first:
+      213: -1759548045617038978
+    second: UpscaledDomino_1_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UpscaledDomino_1_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 695
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbabaa9f51993e270800000000000000
+      internalID: 8278628859699182268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 695
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc0ccac31f4204f0800000000000000
+      internalID: -864041232076370696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 695
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5e75a41b3570ad0800000000000000
+      internalID: -2736126227682695691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 695
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff59105beda95600800000000000000
+      internalID: 457588063327576055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 695
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74350b1eb862eaae0800000000000000
+      internalID: -1536248040658021561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 695
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dcc2f82ca6b2d20800000000000000
+      internalID: 3254812539563593039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_6
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 695
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35796ca34888616a0800000000000000
+      internalID: -6478840912422725805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 695
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4627749ce886b1ee0800000000000000
+      internalID: -1289321905839967644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 471
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669d129c31c1ab9c0800000000000000
+      internalID: -3910782455113459354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 471
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0309cc68297a160800000000000000
+      internalID: 7036754050444964087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 471
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f2ae1b733cc0160800000000000000
+      internalID: 6993178965375069971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 471
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e0746bea47c1340800000000000000
+      internalID: 4835868393620311708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_12
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 471
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1389f2ef55c5eead0800000000000000
+      internalID: -2671096004577617871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 471
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d131232032e07c0800000000000000
+      internalID: -4103303718150922999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 471
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d71d1461a1cc6e80800000000000000
+      internalID: -8183953523925510190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_15
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 471
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8cb6790ffceab30800000000000000
+      internalID: 4300603326424926423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 247
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d94aa57354bab4b0800000000000000
+      internalID: -5423824530664961580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 247
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fd98d5bc3a99420800000000000000
+      internalID: 2637319150645141336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 247
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d712e315007be740800000000000000
+      internalID: 5182358963330619345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 247
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf96293b4dc61800800000000000000
+      internalID: 582878924756131804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 247
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23291a0c74093980800000000000000
+      internalID: -8558804686049041617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_21
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 247
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdeba92d3a028c6f0800000000000000
+      internalID: -664245057052033317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_22
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 247
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931674d9022855c70800000000000000
+      internalID: 8959210110312735033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_23
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 247
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e7041de243c0010800000000000000
+      internalID: 1156356580011179538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9712a2682aec0e0800000000000000
+      internalID: -2247680466895144515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 23
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47094b537fa58b60800000000000000
+      internalID: 7747791643948418892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 23
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db22f63886cc84510800000000000000
+      internalID: 1533700422373417661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 23
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513591c745aef0f70800000000000000
+      internalID: 9155794216047694613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 23
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ee1576f9f629fa0800000000000000
+      internalID: -5795447040048501178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_29
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 23
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1146bef33ab89f920800000000000000
+      internalID: 3024602158024320017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_30
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 23
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2e9036b30476880800000000000000
+      internalID: -8617848738141314361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpscaledDomino_1_31
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 23
+        width: 98
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7973cfff54d497e0800000000000000
+      internalID: -1759548045617038978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UpscaledDomino_1_0: 8278628859699182268
+      UpscaledDomino_1_1: -864041232076370696
+      UpscaledDomino_1_10: 6993178965375069971
+      UpscaledDomino_1_11: 4835868393620311708
+      UpscaledDomino_1_12: -2671096004577617871
+      UpscaledDomino_1_13: -4103303718150922999
+      UpscaledDomino_1_14: -8183953523925510190
+      UpscaledDomino_1_15: 4300603326424926423
+      UpscaledDomino_1_16: -5423824530664961580
+      UpscaledDomino_1_17: 2637319150645141336
+      UpscaledDomino_1_18: 5182358963330619345
+      UpscaledDomino_1_19: 582878924756131804
+      UpscaledDomino_1_2: -2736126227682695691
+      UpscaledDomino_1_20: -8558804686049041617
+      UpscaledDomino_1_21: -664245057052033317
+      UpscaledDomino_1_22: 8959210110312735033
+      UpscaledDomino_1_23: 1156356580011179538
+      UpscaledDomino_1_24: -2247680466895144515
+      UpscaledDomino_1_25: 7747791643948418892
+      UpscaledDomino_1_26: 1533700422373417661
+      UpscaledDomino_1_27: 9155794216047694613
+      UpscaledDomino_1_28: -5795447040048501178
+      UpscaledDomino_1_29: 3024602158024320017
+      UpscaledDomino_1_3: 457588063327576055
+      UpscaledDomino_1_30: -8617848738141314361
+      UpscaledDomino_1_31: -1759548045617038978
+      UpscaledDomino_1_4: -1536248040658021561
+      UpscaledDomino_1_5: 3254812539563593039
+      UpscaledDomino_1_6: -6478840912422725805
+      UpscaledDomino_1_7: -1289321905839967644
+      UpscaledDomino_1_8: -3910782455113459354
+      UpscaledDomino_1_9: 7036754050444964087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
