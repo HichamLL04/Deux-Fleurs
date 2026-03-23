@@ -612,6 +612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b493ce8afb02a206db176392ac2c144c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  loopClip: {fileID: 8300000, guid: c56704de37115680d83a705320e74cea, type: 3}
 --- !u!82 &358753880
 AudioSource:
   m_ObjectHideFlags: 0

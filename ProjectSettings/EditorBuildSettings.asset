@@ -8,22 +8,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Project/Level/Scenes/1_Home.unity
     guid: 51e4d7337e675ca4a95e6662f91d1900
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Project/Level/Scenes/2_Setting.unity
-    guid: a9e95cb4d93938d45a97abcec11e93e9
-  - enabled: 1
+    guid: bcac6c37ca717c04185d5f9daa28f08b
+  - enabled: 0
     path: Assets/_Project/Level/Scenes/3_Game.unity
-    guid: 59f66655a8dcfb84299abbb6074fe76a
-  - enabled: 1
+    guid: 18732a441c574d908a99b17f27dddbc9
+  - enabled: 0
     path: Assets/_Project/Level/Scenes/4_GameOver.unity
-    guid: eed10b3d2229e1141906d8eeb02b61dc
-  - enabled: 1
+    guid: b25acf91edc42ae4a927269b3d106a78
+  - enabled: 0
     path: Assets/_Project/Level/Scenes/5_Credits.unity
-    guid: f954deaf9cc69c84a86a07398abd0aa2
-  - enabled: 1
+    guid: 3be6afd9090ecda13bf81ad1329eb445
+  - enabled: 0
     path: Assets/_Project/Level/Scenes/6_PauseMenu.unity
-    guid: 90a2ebeab4e9833b3a5542ba06feeb48
-  - enabled: 1
+    guid: b229f6ebf362583e2b49353264b86f30
+  - enabled: 0
     path: Assets/_Project/Level/Scenes/7_Help.unity
     guid: 816cb0401a0b4eaca8ec3d15a813231a
   m_configObjects:
