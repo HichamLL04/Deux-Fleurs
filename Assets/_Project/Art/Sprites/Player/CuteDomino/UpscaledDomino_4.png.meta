@@ -219,7 +219,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UpscaledDomino_4_0
+      name: Domino_0_0
       rect:
         serializedVersion: 2
         x: 7
@@ -227,7 +227,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -241,7 +241,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_1
+      name: Domino_1_0
       rect:
         serializedVersion: 2
         x: 119
@@ -249,7 +249,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -263,7 +263,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_2
+      name: Domino_2_0
       rect:
         serializedVersion: 2
         x: 231
@@ -271,7 +271,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -285,7 +285,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_3
+      name: Domino_3_0
       rect:
         serializedVersion: 2
         x: 343
@@ -293,7 +293,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -307,7 +307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_4
+      name: Domino_4_0
       rect:
         serializedVersion: 2
         x: 455
@@ -315,7 +315,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -329,7 +329,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_5
+      name: Domino_5_0
       rect:
         serializedVersion: 2
         x: 567
@@ -337,7 +337,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -351,15 +351,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_6
+      name: Domino_6_0
       rect:
         serializedVersion: 2
         x: 679
-        y: 695
+        y: 696
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -373,7 +373,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_7
+      name: Domino_Black
       rect:
         serializedVersion: 2
         x: 791
@@ -381,7 +381,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -395,7 +395,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_8
+      name: Domino_1_1
       rect:
         serializedVersion: 2
         x: 7
@@ -403,7 +403,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -417,7 +417,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_9
+      name: Domino_1_2
       rect:
         serializedVersion: 2
         x: 119
@@ -425,7 +425,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -439,7 +439,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_10
+      name: Domino_1_3
       rect:
         serializedVersion: 2
         x: 231
@@ -447,7 +447,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -461,7 +461,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_11
+      name: Domino_1_4
       rect:
         serializedVersion: 2
         x: 343
@@ -469,7 +469,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -483,7 +483,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_12
+      name: Domino_1_5
       rect:
         serializedVersion: 2
         x: 455
@@ -491,7 +491,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -505,7 +505,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_13
+      name: Domino_1_6
       rect:
         serializedVersion: 2
         x: 567
@@ -513,7 +513,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -527,7 +527,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_14
+      name: Domino_2_2
       rect:
         serializedVersion: 2
         x: 679
@@ -535,7 +535,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -549,7 +549,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_15
+      name: Domino_Lines
       rect:
         serializedVersion: 2
         x: 791
@@ -557,7 +557,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -571,15 +571,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_16
+      name: Domino_2_3
       rect:
         serializedVersion: 2
         x: 7
-        y: 247
+        y: 246
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -593,7 +593,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_17
+      name: Domino_2_4
       rect:
         serializedVersion: 2
         x: 119
@@ -601,7 +601,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -615,7 +615,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_18
+      name: Domino_2_5
       rect:
         serializedVersion: 2
         x: 231
@@ -623,7 +623,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -637,7 +637,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_19
+      name: Domino_2_6
       rect:
         serializedVersion: 2
         x: 343
@@ -645,7 +645,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -659,7 +659,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_20
+      name: Domino_3_3
       rect:
         serializedVersion: 2
         x: 455
@@ -667,7 +667,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -681,7 +681,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_21
+      name: Domino_3_4
       rect:
         serializedVersion: 2
         x: 567
@@ -689,7 +689,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -703,7 +703,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_22
+      name: Domino_3_5
       rect:
         serializedVersion: 2
         x: 679
@@ -711,7 +711,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -725,7 +725,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_23
+      name: Domino_Clover
       rect:
         serializedVersion: 2
         x: 791
@@ -733,7 +733,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -747,7 +747,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_24
+      name: Domino_3_6
       rect:
         serializedVersion: 2
         x: 7
@@ -755,7 +755,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -769,7 +769,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_25
+      name: Domino_4_4
       rect:
         serializedVersion: 2
         x: 119
@@ -777,7 +777,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -791,7 +791,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_26
+      name: Domino_4_5
       rect:
         serializedVersion: 2
         x: 231
@@ -799,7 +799,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -813,7 +813,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_27
+      name: Domino_4_3
       rect:
         serializedVersion: 2
         x: 343
@@ -821,7 +821,7 @@ TextureImporter:
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -835,15 +835,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_28
+      name: Domino_5_5
       rect:
         serializedVersion: 2
-        x: 455
+        x: 456
         y: 23
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -857,15 +857,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_29
+      name: Domino_5_6
       rect:
         serializedVersion: 2
         x: 567
-        y: 23
+        y: 22
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -879,15 +879,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_30
+      name: Domino_6_6
       rect:
         serializedVersion: 2
-        x: 679
+        x: 678
         y: 23
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -901,15 +901,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UpscaledDomino_4_31
+      name: Domino_Unknown
       rect:
         serializedVersion: 2
-        x: 791
-        y: 23
+        x: 796
+        y: 18
         width: 98
         height: 178
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -926,7 +926,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c2145343f32889f4697feaa2185127e9
     internalID: 0
     vertices: []
     indices: 
@@ -936,38 +936,40 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      UpscaledDomino_4_0: -3043428831647524954
-      UpscaledDomino_4_1: -5457127658276741773
-      UpscaledDomino_4_10: 3132533169210866236
-      UpscaledDomino_4_11: 7353536349414759220
-      UpscaledDomino_4_12: 7855174075110247102
-      UpscaledDomino_4_13: -8338505966229900068
-      UpscaledDomino_4_14: -2294297677753866540
-      UpscaledDomino_4_15: -6564905905121242627
-      UpscaledDomino_4_16: 1288270128378529304
-      UpscaledDomino_4_17: 2572279427692739482
-      UpscaledDomino_4_18: 4186172760920394527
-      UpscaledDomino_4_19: -674625827956599147
-      UpscaledDomino_4_2: 83053691056942748
-      UpscaledDomino_4_20: 393512048392389022
-      UpscaledDomino_4_21: -6600728347896919227
-      UpscaledDomino_4_22: 6857082484030490291
-      UpscaledDomino_4_23: 4888059923693265188
-      UpscaledDomino_4_24: 8456079575623469043
-      UpscaledDomino_4_25: -1970104479835613503
-      UpscaledDomino_4_26: 1655014426990871838
-      UpscaledDomino_4_27: 8962574516302775138
-      UpscaledDomino_4_28: -945044086317582553
-      UpscaledDomino_4_29: -3491569225993039316
-      UpscaledDomino_4_3: 6409310515518755231
-      UpscaledDomino_4_30: 575991324639709402
-      UpscaledDomino_4_31: 7979209378075945608
-      UpscaledDomino_4_4: -1743363394989374223
-      UpscaledDomino_4_5: 3921468967173378188
-      UpscaledDomino_4_6: 1592301697110773120
-      UpscaledDomino_4_7: 3564416337330305921
-      UpscaledDomino_4_8: 531866149976189803
-      UpscaledDomino_4_9: -941124924778323388
+      Black: 3564416337330305921
+      Domino_0_0: -3043428831647524954
+      Domino_1_0: -5457127658276741773
+      Domino_1_1: 531866149976189803
+      Domino_1_2: -941124924778323388
+      Domino_1_3: 3132533169210866236
+      Domino_1_4: 7353536349414759220
+      Domino_1_5: 7855174075110247102
+      Domino_1_6: -8338505966229900068
+      Domino_2_0: 83053691056942748
+      Domino_2_2: -2294297677753866540
+      Domino_2_3: 1288270128378529304
+      Domino_2_4: 2572279427692739482
+      Domino_2_5: 4186172760920394527
+      Domino_2_6: -674625827956599147
+      Domino_3_0: 6409310515518755231
+      Domino_3_3: 393512048392389022
+      Domino_3_4: -6600728347896919227
+      Domino_3_5: 6857082484030490291
+      Domino_3_6: 8456079575623469043
+      Domino_4_0: -1743363394989374223
+      Domino_4_3: 8962574516302775138
+      Domino_4_4: -1970104479835613503
+      Domino_4_5: 1655014426990871838
+      Domino_5_0: 3921468967173378188
+      Domino_5_5: -945044086317582553
+      Domino_5_6: -3491569225993039316
+      Domino_6_0: 1592301697110773120
+      Domino_6_6: 575991324639709402
+      Domino_Black: 3564416337330305921
+      Domino_Clover: 4888059923693265188
+      Domino_Lines: -6564905905121242627
+      Domino_Unknown: 7979209378075945608
+      Unknown: -6600728347896919227
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
