@@ -6,6 +6,7 @@ TagManager:
   tags:
   - DominoTile
   - Button
+  - EnemyDominoTile
   layers:
   - Default
   - TransparentFX

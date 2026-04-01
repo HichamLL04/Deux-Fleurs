@@ -170,8 +170,8 @@ GameObject:
   - component: {fileID: 3308395862564593865}
   - component: {fileID: 5452798303990828044}
   m_Layer: 6
-  m_Name: BasicTile
-  m_TagString: DominoTile
+  m_Name: BasicTileIA
+  m_TagString: EnemyDominoTile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -246,7 +246,7 @@ SpriteRenderer:
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -3043428831647524954, guid: 45e187d93a097724d996f8e5d91b408d, type: 3}
+  m_Sprite: {fileID: 7979209378075945608, guid: 45e187d93a097724d996f8e5d91b408d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 1
